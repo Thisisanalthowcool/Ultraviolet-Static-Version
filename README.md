@@ -1,3 +1,14 @@
+<p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png" height="200"></p>
+
+<h1 align="center">Ultraviolet Static Version</h1>
+
+The deployable static version of Ultraviolet that allows people to bypass internet censorship. Deployment options are below.
+
+## Deployment
+
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/P05h/Infinite-ultraviolet-deployer)
 [![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/P05h/Infinite-ultraviolet-deployer)
 [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/P05h/Infinite-ultraviolet-deployer)
+
+
+Thanks to TIW, another proxy brand, for the bare service worker for this proxy.
