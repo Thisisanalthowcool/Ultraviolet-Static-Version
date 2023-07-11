@@ -2,7 +2,7 @@
 
 <h1 align="center">Ultraviolet Static Version</h1>
 
-A deployable static version of Ultraviolet that allows people to bypass internet censorship. Deployment options are below.
+The deployable static version of Ultraviolet that allows people to bypass internet censorship. Deployment options are below.
 
 ## Deployment
 
