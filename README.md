@@ -10,7 +10,6 @@ The deployable static version of Ultraviolet that allows people to bypass intern
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/P05h/Infinite-ultraviolet-deployer)
 [![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/P05h/Infinite-ultraviolet-deployer)
 [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/P05h/Infinite-ultraviolet-deployer)
-[![Deploy to Tiiny](https://raw.githubusercontent.com/Thesecondalthowcool/Ultraviolet-Static-Version/main/Untitled_design-removebg-preview_1_-removebg-preview.png?token=GHSAT0AAAAAACBOUD3NVGJRB2VL5ZOUWSIUZFMNILQ)](https://vercel.com/new/clone?repository-url=https://github.com/P05h/Infinite-ultraviolet-deployer)
 
 For any other deployment service, use like any other static website for production.
 
