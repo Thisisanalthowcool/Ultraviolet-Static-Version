@@ -14,4 +14,6 @@ The deployable static version of Ultraviolet,a highly sophisticated proxy that a
 For any other deployment service, use like any other static website for production.
 
 
-Thanks to TIW, another proxy brand, for the bare service worker for this proxy. And P05 for the main repository base.
+Thanks to TIW, another proxy brand, for the bare service worker for this proxy. And TN for the main repository base.
+
+O
