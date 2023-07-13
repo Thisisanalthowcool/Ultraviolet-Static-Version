@@ -4,10 +4,6 @@
 
 The deployable static version of Ultraviolet, a highly sophisticated proxy that allows people to bypass internet censorship using the power of service-workers and more. Deployment options are below.
 
-## Localy Running
-
-For locally running, just download this repository and run the index.html file in your browser.
-
 ## Deployment
 
   [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/Thesecondalthowcool/Ultraviolet-Static-Version)
