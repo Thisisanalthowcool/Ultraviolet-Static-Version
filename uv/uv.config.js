@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: '/service/',
+    prefix: '/uv/service/',
     bare: 'https://tiw.tiwweb.workers.dev/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
