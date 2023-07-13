@@ -6,11 +6,11 @@ The deployable static version of Ultraviolet, a highly sophisticated proxy that 
 
 ## Deployment
 
-  [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/Thesecondalthowcool/Ultraviolet-Static-Version)
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/Thesecondalthowcool/Ultraviolet-Static-Version)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/Thesecondalthowcool/Ultraviolet-Static-Version)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/P05h/Infinite-ultraviolet-deployer)
-[![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/P05h/Infinite-ultraviolet-deployer)
-[![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/P05h/Infinite-ultraviolet-deployer)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/Thesecondalthowcool/Ultraviolet-Static-Version)
+[![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Thesecondalthowcool/Ultraviolet-Static-Version)
+[![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/Thesecondalthowcool/Ultraviolet-Static-Version)
 
 For any other deployment service, use like any other static website for production.
 
