@@ -2,8 +2,7 @@
 
 <h1 align="center">Ultraviolet Static Version</h1>
 
-The deployable static version of Ultraviolet, a highly sophisticated proxy that allows people to bypass internet censorship using the power of 
-service-workers and more. Deployment options are below.
+The deployable static version of Ultraviolet, a highly sophisticated proxy that allows people to bypass internet censorship using the power of service-workers and more. Deployment options are below.
 
 ## Localy Running
 
