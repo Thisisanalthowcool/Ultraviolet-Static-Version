@@ -6,7 +6,7 @@ The deployable static version of Ultraviolet, a highly sophisticated proxy that 
 
 ## Localy Running
 
-For locally running, just download the repository and run the index.html in your browser.
+For locally running, just download this repository and run the index.html file in your browser.
 
 ## Deployment
 
