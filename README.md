@@ -15,6 +15,5 @@ The deployable static version of Ultraviolet, a highly sophisticated proxy that 
 For any other deployment service, use like any other static website for production.
 
 
-Thanks to kwazeh, a person on discord, for the [bare service worker](https://tiw.tiwweb.workers.dev/) for this proxy. And TN for the main [repository](https://github.com/titaniumnetwork-dev/Ultraviolet-Static-Archive) base. Make sure to add credit to this repo and the person who made the bare service worker.
-Just give credit.
+Thanks toTN for the main [repository](https://github.com/titaniumnetwork-dev/Ultraviolet-Static-Archive) base. Make sure to add credit to this repository and also to star it.
 
