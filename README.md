@@ -15,5 +15,5 @@ The deployable static version of Ultraviolet, a highly sophisticated proxy that 
 For any other deployment service, use like any other static website for production.
 
 
-Thanks to TN for the main [repository](https://github.com/titaniumnetwork-dev/Ultraviolet-Static-Archive) base. Make sure to add credit to this repository and also to star it.
+Thanks to TN for the main [repository](https://github.com/titaniumnetwork-dev/Ultraviolet-Static-Archive) base. Make sure to add credit to this repository and also to star it. Also this person is really bothers that cause this is runs on a backend, its not static. https://github.com/FoxMoss
 
