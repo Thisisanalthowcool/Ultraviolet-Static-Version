@@ -1,6 +1,9 @@
 self.__uv$config = {
     prefix: '/uv/service/',
-    bare: 'https://ilovebears.eduiscooltbh.eu.org/',
+    bare: [
+        'https://uv.holyubofficial.net/',
+        'https://ilovebears.eduiscooltbh.eu.org/',
+        'https://coolbare.lightspeedsucks.workers.dev/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
