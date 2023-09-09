@@ -52,8 +52,19 @@
     <div title="Ultraviolet uses the power of service-workers and more! Unblock many sites today with Ultraviolet!" class="desc">
         <p>Ultraviolet is highly sophisticated proxy used for evading internet censorship.
     </div>
-    <form>
-        <input placeholder="Search the web freely">
+
+    <form id="uv-form" class="flex-center">
+      <input
+        id="uv-search-engine"
+        value="https://www.google.com/search?q=%s"
+        type="hidden"
+      />
+      <input id="uv-address" type="text" placeholder="Search the web freely" />
+    </form>
+    <div class="desc left-margin">
+      <p id="uv-error"></p>
+      <pre id="uv-error-code"></pre>
+    </div>
     </form>
     <footer>
         <a title="Ultraviolet is a web proxy service maintained by TitaniumNetwork!" href="https://github.com/titaniumnetwork-dev">Titanium Network</a>
