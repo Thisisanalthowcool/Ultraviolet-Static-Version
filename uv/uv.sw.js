@@ -4,7 +4,7 @@ importScripts('/uv/uv.config.js');
 class UVServiceWorker extends EventEmitter {     
     constructor(config = __uv$config) {
         super();
-        if (!config.bare) config.bare = '/bare/';
+        if (!config.bare) config.bare = 'https://coolbare.lightspeedsucks.workers.dev';
         this.addresses = typeof config.bare === 'string' ? [ new URL(config.bare, location) ] : config.bare.map(str => new URL(str, location));
         this.headers = {
             csp: [
