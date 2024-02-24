@@ -1,6 +1,6 @@
 self.__uv$config = {
-    prefix: '/uv/service/',
-    bare: 'https://ilovebears.eduiscooltbh.eu.org'
+    prefix: '/classroom/',
+    bare: 'https://github.com/TheLlamainator/Ultraviolet-Static-Version'
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
