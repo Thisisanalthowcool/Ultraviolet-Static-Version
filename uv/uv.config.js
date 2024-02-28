@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/classroom/',
-    bare: 'https://coolbare.lightspeedsucks.workers.dev',
+    bare: 'https://iloveeducation.thenubrokers.com/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
